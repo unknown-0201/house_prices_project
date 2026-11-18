@@ -1,0 +1,11 @@
+# Служебные файлы RStudio — на GitHub не нужны
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Данные соревнования Kaggle не распространяем — их можно скачать по ссылке в README
+*.csv
+
+# Служебные файлы macOS
+.DS_Store
