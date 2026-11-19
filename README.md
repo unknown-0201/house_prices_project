@@ -28,5 +28,3 @@
 
 R, RStudio, R Markdown, tidyverse, caret, randomForest, corrplot, VIM.
 
----
-Автор: Анастасия Конищева
