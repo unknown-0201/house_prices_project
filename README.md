@@ -4,7 +4,6 @@
 
 **Цель** — понять, от чего зависит цена дома, и построить модель, которая её предсказывает.
 
-📄 **Готовый отчёт:** [Konischeva_Anastasia_House_prices.pdf](Konischeva_Anastasia_House_prices.pdf)
 
 ## Что сделано
 
@@ -27,6 +26,3 @@
 ## Инструменты
 
 R, RStudio, R Markdown, tidyverse, caret, randomForest, corrplot, VIM.
-
----
-Автор: Анастасия Конищева
